@@ -8,7 +8,7 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 
 Since the data from Divvy are anonymous, we have generated fake rider and account profiles along with fake payment data to go along with the data from Divvy. The dataset looks like this:
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nevenkalukic/Azure_kurs/udacity_bike_share_datalake_project/data-model.png?version%3D1695295390124)
+![Alt text](Screenshots/data-model.png)
 
 ### The goal of this project is to develop a data lake solution using Azure Databricks using a lake house architecture. 
 
