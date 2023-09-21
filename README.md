@@ -29,20 +29,20 @@ You'll implement these requirements by creating a Python notebook, or notebooks 
 
 1. Create Azure Databricks Workspace
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nevenkalukic/Azure_kurs/udacity_bike_share_datalake_project/Screenshots/Databricks_Workspace.png?version%3D1695295752441)
+![Alt text](Screenshots/Databricks_Workspace.png)
 
 2. Create Databricks Cluster
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nevenkalukic/Azure_kurs/udacity_bike_share_datalake_project/Screenshots/Databricks_Cluster.png?version%3D1695295787940)
+![Alt text](Screenshots/Databricks_Cluster.png)
 
 3. Import data to DBFS
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nevenkalukic/Azure_kurs/udacity_bike_share_datalake_project/Screenshots/Import_data_to_DBFS.png?version%3D1695295844979)
+![Alt text](Screenshots/Import_data_to_DBFS.png)
 
 4. Create a gold data store in Delta Lake tables by using Databricks Python notebook
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nevenkalukic/Azure_kurs/udacity_bike_share_datalake_project/Screenshots/Load_step_Create_a_gold_data_store.png?version%3D1695295905099)
+![Alt text](Screenshots/Load_step_Create_a_gold_data_store.png)
 
 5. Transform Delta source tables into designed star schema
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nevenkalukic/Azure_kurs/udacity_bike_share_datalake_project/Screenshots/Transform_the_data_into_the_star_schema.png?version%3D1695295945830)
+![Alt text](Screenshots/Transform_the_data_into_the_star_schema.png)
